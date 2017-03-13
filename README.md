@@ -1,2 +1,2 @@
 # Positioning-Elements-Side-By-Side-with-Inline-Display
-line of read me file, more info about me
+Treehouse Project Work - CSS Basic Layout
